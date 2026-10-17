@@ -1,0 +1,318 @@
+// Atelier Batterie - General MIDI mapping (c) Atelier Instruments, AGPLv3
+// Samples: Virtuosity Drums (mid mics) by Versilian Studios, CC0 1.0
+// bus: 0 kick, 1 snare, 2 hi-hat, 3 toms, 4 cymbals
+<global> loop_mode=one_shot amp_veltrack=55 ampeg_release=0.08
+
+// key 35: kick_snon
+<region> sample=samples/kick_snon_vl1_rr1.ogg key=35 pitch_keycenter=36 lovel=1 hivel=31 seq_length=4 seq_position=1 bus=0
+<region> sample=samples/kick_snon_vl1_rr2.ogg key=35 pitch_keycenter=36 lovel=1 hivel=31 seq_length=4 seq_position=2 bus=0
+<region> sample=samples/kick_snon_vl1_rr3.ogg key=35 pitch_keycenter=36 lovel=1 hivel=31 seq_length=4 seq_position=3 bus=0
+<region> sample=samples/kick_snon_vl1_rr4.ogg key=35 pitch_keycenter=36 lovel=1 hivel=31 seq_length=4 seq_position=4 bus=0
+<region> sample=samples/kick_snon_vl2_rr1.ogg key=35 pitch_keycenter=36 lovel=32 hivel=63 seq_length=4 seq_position=1 bus=0
+<region> sample=samples/kick_snon_vl2_rr2.ogg key=35 pitch_keycenter=36 lovel=32 hivel=63 seq_length=4 seq_position=2 bus=0
+<region> sample=samples/kick_snon_vl2_rr3.ogg key=35 pitch_keycenter=36 lovel=32 hivel=63 seq_length=4 seq_position=3 bus=0
+<region> sample=samples/kick_snon_vl2_rr4.ogg key=35 pitch_keycenter=36 lovel=32 hivel=63 seq_length=4 seq_position=4 bus=0
+<region> sample=samples/kick_snon_vl3_rr1.ogg key=35 pitch_keycenter=36 lovel=64 hivel=95 seq_length=4 seq_position=1 bus=0
+<region> sample=samples/kick_snon_vl3_rr2.ogg key=35 pitch_keycenter=36 lovel=64 hivel=95 seq_length=4 seq_position=2 bus=0
+<region> sample=samples/kick_snon_vl3_rr3.ogg key=35 pitch_keycenter=36 lovel=64 hivel=95 seq_length=4 seq_position=3 bus=0
+<region> sample=samples/kick_snon_vl3_rr4.ogg key=35 pitch_keycenter=36 lovel=64 hivel=95 seq_length=4 seq_position=4 bus=0
+<region> sample=samples/kick_snon_vl4_rr1.ogg key=35 pitch_keycenter=36 lovel=96 hivel=127 seq_length=4 seq_position=1 bus=0
+<region> sample=samples/kick_snon_vl4_rr2.ogg key=35 pitch_keycenter=36 lovel=96 hivel=127 seq_length=4 seq_position=2 bus=0
+<region> sample=samples/kick_snon_vl4_rr3.ogg key=35 pitch_keycenter=36 lovel=96 hivel=127 seq_length=4 seq_position=3 bus=0
+<region> sample=samples/kick_snon_vl4_rr4.ogg key=35 pitch_keycenter=36 lovel=96 hivel=127 seq_length=4 seq_position=4 bus=0
+// key 36: kick_snon
+<region> sample=samples/kick_snon_vl1_rr1.ogg key=36 pitch_keycenter=36 lovel=1 hivel=31 seq_length=4 seq_position=1 bus=0
+<region> sample=samples/kick_snon_vl1_rr2.ogg key=36 pitch_keycenter=36 lovel=1 hivel=31 seq_length=4 seq_position=2 bus=0
+<region> sample=samples/kick_snon_vl1_rr3.ogg key=36 pitch_keycenter=36 lovel=1 hivel=31 seq_length=4 seq_position=3 bus=0
+<region> sample=samples/kick_snon_vl1_rr4.ogg key=36 pitch_keycenter=36 lovel=1 hivel=31 seq_length=4 seq_position=4 bus=0
+<region> sample=samples/kick_snon_vl2_rr1.ogg key=36 pitch_keycenter=36 lovel=32 hivel=63 seq_length=4 seq_position=1 bus=0
+<region> sample=samples/kick_snon_vl2_rr2.ogg key=36 pitch_keycenter=36 lovel=32 hivel=63 seq_length=4 seq_position=2 bus=0
+<region> sample=samples/kick_snon_vl2_rr3.ogg key=36 pitch_keycenter=36 lovel=32 hivel=63 seq_length=4 seq_position=3 bus=0
+<region> sample=samples/kick_snon_vl2_rr4.ogg key=36 pitch_keycenter=36 lovel=32 hivel=63 seq_length=4 seq_position=4 bus=0
+<region> sample=samples/kick_snon_vl3_rr1.ogg key=36 pitch_keycenter=36 lovel=64 hivel=95 seq_length=4 seq_position=1 bus=0
+<region> sample=samples/kick_snon_vl3_rr2.ogg key=36 pitch_keycenter=36 lovel=64 hivel=95 seq_length=4 seq_position=2 bus=0
+<region> sample=samples/kick_snon_vl3_rr3.ogg key=36 pitch_keycenter=36 lovel=64 hivel=95 seq_length=4 seq_position=3 bus=0
+<region> sample=samples/kick_snon_vl3_rr4.ogg key=36 pitch_keycenter=36 lovel=64 hivel=95 seq_length=4 seq_position=4 bus=0
+<region> sample=samples/kick_snon_vl4_rr1.ogg key=36 pitch_keycenter=36 lovel=96 hivel=127 seq_length=4 seq_position=1 bus=0
+<region> sample=samples/kick_snon_vl4_rr2.ogg key=36 pitch_keycenter=36 lovel=96 hivel=127 seq_length=4 seq_position=2 bus=0
+<region> sample=samples/kick_snon_vl4_rr3.ogg key=36 pitch_keycenter=36 lovel=96 hivel=127 seq_length=4 seq_position=3 bus=0
+<region> sample=samples/kick_snon_vl4_rr4.ogg key=36 pitch_keycenter=36 lovel=96 hivel=127 seq_length=4 seq_position=4 bus=0
+// key 37: snare_crossstick
+<region> sample=samples/snare_crossstick_vl1.ogg key=37 pitch_keycenter=37 lovel=1 hivel=15 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_crossstick_vl2.ogg key=37 pitch_keycenter=37 lovel=1 hivel=15 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_crossstick_vl3.ogg key=37 pitch_keycenter=37 lovel=16 hivel=31 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_crossstick_vl4.ogg key=37 pitch_keycenter=37 lovel=16 hivel=31 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_crossstick_vl5.ogg key=37 pitch_keycenter=37 lovel=32 hivel=47 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_crossstick_vl6.ogg key=37 pitch_keycenter=37 lovel=32 hivel=47 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_crossstick_vl7.ogg key=37 pitch_keycenter=37 lovel=48 hivel=63 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_crossstick_vl8.ogg key=37 pitch_keycenter=37 lovel=48 hivel=63 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_crossstick_vl9.ogg key=37 pitch_keycenter=37 lovel=64 hivel=79 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_crossstick_vl10.ogg key=37 pitch_keycenter=37 lovel=64 hivel=79 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_crossstick_vl11.ogg key=37 pitch_keycenter=37 lovel=80 hivel=95 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_crossstick_vl12.ogg key=37 pitch_keycenter=37 lovel=80 hivel=95 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_crossstick_vl13.ogg key=37 pitch_keycenter=37 lovel=96 hivel=111 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_crossstick_vl14.ogg key=37 pitch_keycenter=37 lovel=96 hivel=111 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_crossstick_vl15.ogg key=37 pitch_keycenter=37 lovel=112 hivel=127 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_crossstick_vl16.ogg key=37 pitch_keycenter=37 lovel=112 hivel=127 seq_length=2 seq_position=2 bus=1
+// key 38: snare_center
+<region> sample=samples/snare_center_vl1.ogg key=38 pitch_keycenter=38 lovel=1 hivel=15 seq_length=5 seq_position=1 bus=1
+<region> sample=samples/snare_center_vl2.ogg key=38 pitch_keycenter=38 lovel=1 hivel=15 seq_length=5 seq_position=2 bus=1
+<region> sample=samples/snare_center_vl3.ogg key=38 pitch_keycenter=38 lovel=1 hivel=15 seq_length=5 seq_position=3 bus=1
+<region> sample=samples/snare_center_vl4.ogg key=38 pitch_keycenter=38 lovel=1 hivel=15 seq_length=5 seq_position=4 bus=1
+<region> sample=samples/snare_center_vl5.ogg key=38 pitch_keycenter=38 lovel=1 hivel=15 seq_length=5 seq_position=5 bus=1
+<region> sample=samples/snare_center_vl6.ogg key=38 pitch_keycenter=38 lovel=16 hivel=31 seq_length=5 seq_position=1 bus=1
+<region> sample=samples/snare_center_vl7.ogg key=38 pitch_keycenter=38 lovel=16 hivel=31 seq_length=5 seq_position=2 bus=1
+<region> sample=samples/snare_center_vl8.ogg key=38 pitch_keycenter=38 lovel=16 hivel=31 seq_length=5 seq_position=3 bus=1
+<region> sample=samples/snare_center_vl9.ogg key=38 pitch_keycenter=38 lovel=16 hivel=31 seq_length=5 seq_position=4 bus=1
+<region> sample=samples/snare_center_vl10.ogg key=38 pitch_keycenter=38 lovel=16 hivel=31 seq_length=5 seq_position=5 bus=1
+<region> sample=samples/snare_center_vl11.ogg key=38 pitch_keycenter=38 lovel=32 hivel=47 seq_length=5 seq_position=1 bus=1
+<region> sample=samples/snare_center_vl12.ogg key=38 pitch_keycenter=38 lovel=32 hivel=47 seq_length=5 seq_position=2 bus=1
+<region> sample=samples/snare_center_vl13.ogg key=38 pitch_keycenter=38 lovel=32 hivel=47 seq_length=5 seq_position=3 bus=1
+<region> sample=samples/snare_center_vl14.ogg key=38 pitch_keycenter=38 lovel=32 hivel=47 seq_length=5 seq_position=4 bus=1
+<region> sample=samples/snare_center_vl15.ogg key=38 pitch_keycenter=38 lovel=32 hivel=47 seq_length=5 seq_position=5 bus=1
+<region> sample=samples/snare_center_vl16.ogg key=38 pitch_keycenter=38 lovel=48 hivel=63 seq_length=5 seq_position=1 bus=1
+<region> sample=samples/snare_center_vl17.ogg key=38 pitch_keycenter=38 lovel=48 hivel=63 seq_length=5 seq_position=2 bus=1
+<region> sample=samples/snare_center_vl18.ogg key=38 pitch_keycenter=38 lovel=48 hivel=63 seq_length=5 seq_position=3 bus=1
+<region> sample=samples/snare_center_vl19.ogg key=38 pitch_keycenter=38 lovel=48 hivel=63 seq_length=5 seq_position=4 bus=1
+<region> sample=samples/snare_center_vl20.ogg key=38 pitch_keycenter=38 lovel=48 hivel=63 seq_length=5 seq_position=5 bus=1
+<region> sample=samples/snare_center_vl21.ogg key=38 pitch_keycenter=38 lovel=64 hivel=79 seq_length=5 seq_position=1 bus=1
+<region> sample=samples/snare_center_vl22.ogg key=38 pitch_keycenter=38 lovel=64 hivel=79 seq_length=5 seq_position=2 bus=1
+<region> sample=samples/snare_center_vl23.ogg key=38 pitch_keycenter=38 lovel=64 hivel=79 seq_length=5 seq_position=3 bus=1
+<region> sample=samples/snare_center_vl24.ogg key=38 pitch_keycenter=38 lovel=64 hivel=79 seq_length=5 seq_position=4 bus=1
+<region> sample=samples/snare_center_vl25.ogg key=38 pitch_keycenter=38 lovel=64 hivel=79 seq_length=5 seq_position=5 bus=1
+<region> sample=samples/snare_center_vl26.ogg key=38 pitch_keycenter=38 lovel=80 hivel=95 seq_length=5 seq_position=1 bus=1
+<region> sample=samples/snare_center_vl27.ogg key=38 pitch_keycenter=38 lovel=80 hivel=95 seq_length=5 seq_position=2 bus=1
+<region> sample=samples/snare_center_vl28.ogg key=38 pitch_keycenter=38 lovel=80 hivel=95 seq_length=5 seq_position=3 bus=1
+<region> sample=samples/snare_center_vl29.ogg key=38 pitch_keycenter=38 lovel=80 hivel=95 seq_length=5 seq_position=4 bus=1
+<region> sample=samples/snare_center_vl30.ogg key=38 pitch_keycenter=38 lovel=80 hivel=95 seq_length=5 seq_position=5 bus=1
+<region> sample=samples/snare_center_vl31.ogg key=38 pitch_keycenter=38 lovel=96 hivel=111 seq_length=5 seq_position=1 bus=1
+<region> sample=samples/snare_center_vl32.ogg key=38 pitch_keycenter=38 lovel=96 hivel=111 seq_length=5 seq_position=2 bus=1
+<region> sample=samples/snare_center_vl33.ogg key=38 pitch_keycenter=38 lovel=96 hivel=111 seq_length=5 seq_position=3 bus=1
+<region> sample=samples/snare_center_vl34.ogg key=38 pitch_keycenter=38 lovel=96 hivel=111 seq_length=5 seq_position=4 bus=1
+<region> sample=samples/snare_center_vl35.ogg key=38 pitch_keycenter=38 lovel=96 hivel=111 seq_length=5 seq_position=5 bus=1
+<region> sample=samples/snare_center_vl36.ogg key=38 pitch_keycenter=38 lovel=112 hivel=127 bus=1
+// key 40: snare_rimshot
+<region> sample=samples/snare_rimshot_vl1.ogg key=40 pitch_keycenter=40 lovel=1 hivel=21 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_rimshot_vl2.ogg key=40 pitch_keycenter=40 lovel=1 hivel=21 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_rimshot_vl3.ogg key=40 pitch_keycenter=40 lovel=22 hivel=42 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_rimshot_vl4.ogg key=40 pitch_keycenter=40 lovel=22 hivel=42 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_rimshot_vl5.ogg key=40 pitch_keycenter=40 lovel=43 hivel=63 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_rimshot_vl6.ogg key=40 pitch_keycenter=40 lovel=43 hivel=63 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_rimshot_vl7.ogg key=40 pitch_keycenter=40 lovel=64 hivel=84 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_rimshot_vl8.ogg key=40 pitch_keycenter=40 lovel=64 hivel=84 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_rimshot_vl9.ogg key=40 pitch_keycenter=40 lovel=85 hivel=105 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_rimshot_vl10.ogg key=40 pitch_keycenter=40 lovel=85 hivel=105 seq_length=2 seq_position=2 bus=1
+<region> sample=samples/snare_rimshot_vl11.ogg key=40 pitch_keycenter=40 lovel=106 hivel=127 seq_length=2 seq_position=1 bus=1
+<region> sample=samples/snare_rimshot_vl12.ogg key=40 pitch_keycenter=40 lovel=106 hivel=127 seq_length=2 seq_position=2 bus=1
+// key 42: hh_closed
+<region> sample=samples/hh_closed_vl1_rr1.ogg key=42 pitch_keycenter=42 lovel=1 hivel=31 seq_length=4 seq_position=1 bus=2 group=2
+<region> sample=samples/hh_closed_vl1_rr2.ogg key=42 pitch_keycenter=42 lovel=1 hivel=31 seq_length=4 seq_position=2 bus=2 group=2
+<region> sample=samples/hh_closed_vl1_rr3.ogg key=42 pitch_keycenter=42 lovel=1 hivel=31 seq_length=4 seq_position=3 bus=2 group=2
+<region> sample=samples/hh_closed_vl1_rr4.ogg key=42 pitch_keycenter=42 lovel=1 hivel=31 seq_length=4 seq_position=4 bus=2 group=2
+<region> sample=samples/hh_closed_vl2_rr1.ogg key=42 pitch_keycenter=42 lovel=32 hivel=63 seq_length=4 seq_position=1 bus=2 group=2
+<region> sample=samples/hh_closed_vl2_rr2.ogg key=42 pitch_keycenter=42 lovel=32 hivel=63 seq_length=4 seq_position=2 bus=2 group=2
+<region> sample=samples/hh_closed_vl2_rr3.ogg key=42 pitch_keycenter=42 lovel=32 hivel=63 seq_length=4 seq_position=3 bus=2 group=2
+<region> sample=samples/hh_closed_vl2_rr4.ogg key=42 pitch_keycenter=42 lovel=32 hivel=63 seq_length=4 seq_position=4 bus=2 group=2
+<region> sample=samples/hh_closed_vl3_rr1.ogg key=42 pitch_keycenter=42 lovel=64 hivel=95 seq_length=4 seq_position=1 bus=2 group=2
+<region> sample=samples/hh_closed_vl3_rr2.ogg key=42 pitch_keycenter=42 lovel=64 hivel=95 seq_length=4 seq_position=2 bus=2 group=2
+<region> sample=samples/hh_closed_vl3_rr3.ogg key=42 pitch_keycenter=42 lovel=64 hivel=95 seq_length=4 seq_position=3 bus=2 group=2
+<region> sample=samples/hh_closed_vl3_rr4.ogg key=42 pitch_keycenter=42 lovel=64 hivel=95 seq_length=4 seq_position=4 bus=2 group=2
+<region> sample=samples/hh_closed_vl4_rr1.ogg key=42 pitch_keycenter=42 lovel=96 hivel=127 seq_length=4 seq_position=1 bus=2 group=2
+<region> sample=samples/hh_closed_vl4_rr2.ogg key=42 pitch_keycenter=42 lovel=96 hivel=127 seq_length=4 seq_position=2 bus=2 group=2
+<region> sample=samples/hh_closed_vl4_rr3.ogg key=42 pitch_keycenter=42 lovel=96 hivel=127 seq_length=4 seq_position=3 bus=2 group=2
+<region> sample=samples/hh_closed_vl4_rr4.ogg key=42 pitch_keycenter=42 lovel=96 hivel=127 seq_length=4 seq_position=4 bus=2 group=2
+// key 44: hh_pedal
+<region> sample=samples/hh_pedal_vl1_rr1.ogg key=44 pitch_keycenter=44 lovel=1 hivel=42 seq_length=4 seq_position=1 bus=2 group=2
+<region> sample=samples/hh_pedal_vl1_rr2.ogg key=44 pitch_keycenter=44 lovel=1 hivel=42 seq_length=4 seq_position=2 bus=2 group=2
+<region> sample=samples/hh_pedal_vl1_rr3.ogg key=44 pitch_keycenter=44 lovel=1 hivel=42 seq_length=4 seq_position=3 bus=2 group=2
+<region> sample=samples/hh_pedal_vl1_rr4.ogg key=44 pitch_keycenter=44 lovel=1 hivel=42 seq_length=4 seq_position=4 bus=2 group=2
+<region> sample=samples/hh_pedal_vl2_rr1.ogg key=44 pitch_keycenter=44 lovel=43 hivel=84 seq_length=4 seq_position=1 bus=2 group=2
+<region> sample=samples/hh_pedal_vl2_rr2.ogg key=44 pitch_keycenter=44 lovel=43 hivel=84 seq_length=4 seq_position=2 bus=2 group=2
+<region> sample=samples/hh_pedal_vl2_rr3.ogg key=44 pitch_keycenter=44 lovel=43 hivel=84 seq_length=4 seq_position=3 bus=2 group=2
+<region> sample=samples/hh_pedal_vl2_rr4.ogg key=44 pitch_keycenter=44 lovel=43 hivel=84 seq_length=4 seq_position=4 bus=2 group=2
+<region> sample=samples/hh_pedal_vl3_rr1.ogg key=44 pitch_keycenter=44 lovel=85 hivel=127 seq_length=4 seq_position=1 bus=2 group=2
+<region> sample=samples/hh_pedal_vl3_rr2.ogg key=44 pitch_keycenter=44 lovel=85 hivel=127 seq_length=4 seq_position=2 bus=2 group=2
+<region> sample=samples/hh_pedal_vl3_rr3.ogg key=44 pitch_keycenter=44 lovel=85 hivel=127 seq_length=4 seq_position=3 bus=2 group=2
+<region> sample=samples/hh_pedal_vl3_rr4.ogg key=44 pitch_keycenter=44 lovel=85 hivel=127 seq_length=4 seq_position=4 bus=2 group=2
+// key 46: hh_open
+<region> sample=samples/hh_open_vl1_rr1.ogg key=46 pitch_keycenter=46 lovel=1 hivel=31 seq_length=3 seq_position=1 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl1_rr2.ogg key=46 pitch_keycenter=46 lovel=1 hivel=31 seq_length=3 seq_position=2 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl1_rr3.ogg key=46 pitch_keycenter=46 lovel=1 hivel=31 seq_length=3 seq_position=3 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl2_rr1.ogg key=46 pitch_keycenter=46 lovel=32 hivel=63 seq_length=3 seq_position=1 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl2_rr2.ogg key=46 pitch_keycenter=46 lovel=32 hivel=63 seq_length=3 seq_position=2 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl2_rr3.ogg key=46 pitch_keycenter=46 lovel=32 hivel=63 seq_length=3 seq_position=3 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl3_rr1.ogg key=46 pitch_keycenter=46 lovel=64 hivel=95 seq_length=3 seq_position=1 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl3_rr2.ogg key=46 pitch_keycenter=46 lovel=64 hivel=95 seq_length=3 seq_position=2 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl3_rr3.ogg key=46 pitch_keycenter=46 lovel=64 hivel=95 seq_length=3 seq_position=3 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl4_rr1.ogg key=46 pitch_keycenter=46 lovel=96 hivel=127 seq_length=3 seq_position=1 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl4_rr2.ogg key=46 pitch_keycenter=46 lovel=96 hivel=127 seq_length=3 seq_position=2 bus=2 group=1 off_by=2
+<region> sample=samples/hh_open_vl4_rr3.ogg key=46 pitch_keycenter=46 lovel=96 hivel=127 seq_length=3 seq_position=3 bus=2 group=1 off_by=2
+// key 41: ltom_center
+<region> sample=samples/ltom_center_vl1.ogg key=41 pitch_keycenter=46 lovel=1 hivel=15 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl2.ogg key=41 pitch_keycenter=46 lovel=1 hivel=15 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl3.ogg key=41 pitch_keycenter=46 lovel=16 hivel=31 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl4.ogg key=41 pitch_keycenter=46 lovel=16 hivel=31 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl5.ogg key=41 pitch_keycenter=46 lovel=32 hivel=47 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl6.ogg key=41 pitch_keycenter=46 lovel=32 hivel=47 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl7.ogg key=41 pitch_keycenter=46 lovel=48 hivel=63 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl8.ogg key=41 pitch_keycenter=46 lovel=48 hivel=63 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl9.ogg key=41 pitch_keycenter=46 lovel=64 hivel=79 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl10.ogg key=41 pitch_keycenter=46 lovel=64 hivel=79 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl11.ogg key=41 pitch_keycenter=46 lovel=80 hivel=95 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl12.ogg key=41 pitch_keycenter=46 lovel=80 hivel=95 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl13.ogg key=41 pitch_keycenter=46 lovel=96 hivel=111 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl14.ogg key=41 pitch_keycenter=46 lovel=96 hivel=111 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl15.ogg key=41 pitch_keycenter=46 lovel=112 hivel=127 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl16.ogg key=41 pitch_keycenter=46 lovel=112 hivel=127 seq_length=2 seq_position=2 bus=3
+// key 43: ltom_center
+<region> sample=samples/ltom_center_vl1.ogg key=43 pitch_keycenter=46 lovel=1 hivel=15 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl2.ogg key=43 pitch_keycenter=46 lovel=1 hivel=15 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl3.ogg key=43 pitch_keycenter=46 lovel=16 hivel=31 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl4.ogg key=43 pitch_keycenter=46 lovel=16 hivel=31 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl5.ogg key=43 pitch_keycenter=46 lovel=32 hivel=47 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl6.ogg key=43 pitch_keycenter=46 lovel=32 hivel=47 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl7.ogg key=43 pitch_keycenter=46 lovel=48 hivel=63 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl8.ogg key=43 pitch_keycenter=46 lovel=48 hivel=63 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl9.ogg key=43 pitch_keycenter=46 lovel=64 hivel=79 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl10.ogg key=43 pitch_keycenter=46 lovel=64 hivel=79 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl11.ogg key=43 pitch_keycenter=46 lovel=80 hivel=95 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl12.ogg key=43 pitch_keycenter=46 lovel=80 hivel=95 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl13.ogg key=43 pitch_keycenter=46 lovel=96 hivel=111 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl14.ogg key=43 pitch_keycenter=46 lovel=96 hivel=111 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl15.ogg key=43 pitch_keycenter=46 lovel=112 hivel=127 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl16.ogg key=43 pitch_keycenter=46 lovel=112 hivel=127 seq_length=2 seq_position=2 bus=3
+// key 45: ltom_center
+<region> sample=samples/ltom_center_vl1.ogg key=45 pitch_keycenter=45 lovel=1 hivel=15 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl2.ogg key=45 pitch_keycenter=45 lovel=1 hivel=15 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl3.ogg key=45 pitch_keycenter=45 lovel=16 hivel=31 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl4.ogg key=45 pitch_keycenter=45 lovel=16 hivel=31 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl5.ogg key=45 pitch_keycenter=45 lovel=32 hivel=47 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl6.ogg key=45 pitch_keycenter=45 lovel=32 hivel=47 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl7.ogg key=45 pitch_keycenter=45 lovel=48 hivel=63 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl8.ogg key=45 pitch_keycenter=45 lovel=48 hivel=63 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl9.ogg key=45 pitch_keycenter=45 lovel=64 hivel=79 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl10.ogg key=45 pitch_keycenter=45 lovel=64 hivel=79 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl11.ogg key=45 pitch_keycenter=45 lovel=80 hivel=95 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl12.ogg key=45 pitch_keycenter=45 lovel=80 hivel=95 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl13.ogg key=45 pitch_keycenter=45 lovel=96 hivel=111 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl14.ogg key=45 pitch_keycenter=45 lovel=96 hivel=111 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/ltom_center_vl15.ogg key=45 pitch_keycenter=45 lovel=112 hivel=127 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/ltom_center_vl16.ogg key=45 pitch_keycenter=45 lovel=112 hivel=127 seq_length=2 seq_position=2 bus=3
+// key 47: htom_center
+<region> sample=samples/htom_center_vl1.ogg key=47 pitch_keycenter=49 lovel=1 hivel=15 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl2.ogg key=47 pitch_keycenter=49 lovel=1 hivel=15 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl3.ogg key=47 pitch_keycenter=49 lovel=16 hivel=31 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl4.ogg key=47 pitch_keycenter=49 lovel=16 hivel=31 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl5.ogg key=47 pitch_keycenter=49 lovel=32 hivel=47 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl6.ogg key=47 pitch_keycenter=49 lovel=32 hivel=47 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl7.ogg key=47 pitch_keycenter=49 lovel=48 hivel=63 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl8.ogg key=47 pitch_keycenter=49 lovel=48 hivel=63 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl9.ogg key=47 pitch_keycenter=49 lovel=64 hivel=79 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl10.ogg key=47 pitch_keycenter=49 lovel=64 hivel=79 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl11.ogg key=47 pitch_keycenter=49 lovel=80 hivel=95 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl12.ogg key=47 pitch_keycenter=49 lovel=80 hivel=95 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl13.ogg key=47 pitch_keycenter=49 lovel=96 hivel=111 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl14.ogg key=47 pitch_keycenter=49 lovel=96 hivel=111 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl15.ogg key=47 pitch_keycenter=49 lovel=112 hivel=127 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl16.ogg key=47 pitch_keycenter=49 lovel=112 hivel=127 seq_length=2 seq_position=2 bus=3
+// key 48: htom_center
+<region> sample=samples/htom_center_vl1.ogg key=48 pitch_keycenter=48 lovel=1 hivel=15 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl2.ogg key=48 pitch_keycenter=48 lovel=1 hivel=15 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl3.ogg key=48 pitch_keycenter=48 lovel=16 hivel=31 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl4.ogg key=48 pitch_keycenter=48 lovel=16 hivel=31 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl5.ogg key=48 pitch_keycenter=48 lovel=32 hivel=47 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl6.ogg key=48 pitch_keycenter=48 lovel=32 hivel=47 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl7.ogg key=48 pitch_keycenter=48 lovel=48 hivel=63 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl8.ogg key=48 pitch_keycenter=48 lovel=48 hivel=63 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl9.ogg key=48 pitch_keycenter=48 lovel=64 hivel=79 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl10.ogg key=48 pitch_keycenter=48 lovel=64 hivel=79 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl11.ogg key=48 pitch_keycenter=48 lovel=80 hivel=95 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl12.ogg key=48 pitch_keycenter=48 lovel=80 hivel=95 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl13.ogg key=48 pitch_keycenter=48 lovel=96 hivel=111 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl14.ogg key=48 pitch_keycenter=48 lovel=96 hivel=111 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl15.ogg key=48 pitch_keycenter=48 lovel=112 hivel=127 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl16.ogg key=48 pitch_keycenter=48 lovel=112 hivel=127 seq_length=2 seq_position=2 bus=3
+// key 50: htom_center
+<region> sample=samples/htom_center_vl1.ogg key=50 pitch_keycenter=48 lovel=1 hivel=15 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl2.ogg key=50 pitch_keycenter=48 lovel=1 hivel=15 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl3.ogg key=50 pitch_keycenter=48 lovel=16 hivel=31 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl4.ogg key=50 pitch_keycenter=48 lovel=16 hivel=31 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl5.ogg key=50 pitch_keycenter=48 lovel=32 hivel=47 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl6.ogg key=50 pitch_keycenter=48 lovel=32 hivel=47 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl7.ogg key=50 pitch_keycenter=48 lovel=48 hivel=63 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl8.ogg key=50 pitch_keycenter=48 lovel=48 hivel=63 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl9.ogg key=50 pitch_keycenter=48 lovel=64 hivel=79 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl10.ogg key=50 pitch_keycenter=48 lovel=64 hivel=79 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl11.ogg key=50 pitch_keycenter=48 lovel=80 hivel=95 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl12.ogg key=50 pitch_keycenter=48 lovel=80 hivel=95 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl13.ogg key=50 pitch_keycenter=48 lovel=96 hivel=111 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl14.ogg key=50 pitch_keycenter=48 lovel=96 hivel=111 seq_length=2 seq_position=2 bus=3
+<region> sample=samples/htom_center_vl15.ogg key=50 pitch_keycenter=48 lovel=112 hivel=127 seq_length=2 seq_position=1 bus=3
+<region> sample=samples/htom_center_vl16.ogg key=50 pitch_keycenter=48 lovel=112 hivel=127 seq_length=2 seq_position=2 bus=3
+// key 49: crash_crash
+<region> sample=samples/crash_crash_vl1_rr1.ogg key=49 pitch_keycenter=49 lovel=1 hivel=42 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/crash_crash_vl1_rr2.ogg key=49 pitch_keycenter=49 lovel=1 hivel=42 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/crash_crash_vl1_rr3.ogg key=49 pitch_keycenter=49 lovel=1 hivel=42 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/crash_crash_vl1_rr4.ogg key=49 pitch_keycenter=49 lovel=1 hivel=42 seq_length=4 seq_position=4 bus=4
+<region> sample=samples/crash_crash_vl2_rr1.ogg key=49 pitch_keycenter=49 lovel=43 hivel=84 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/crash_crash_vl2_rr2.ogg key=49 pitch_keycenter=49 lovel=43 hivel=84 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/crash_crash_vl2_rr3.ogg key=49 pitch_keycenter=49 lovel=43 hivel=84 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/crash_crash_vl2_rr4.ogg key=49 pitch_keycenter=49 lovel=43 hivel=84 seq_length=4 seq_position=4 bus=4
+<region> sample=samples/crash_crash_vl3_rr1.ogg key=49 pitch_keycenter=49 lovel=85 hivel=127 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/crash_crash_vl3_rr2.ogg key=49 pitch_keycenter=49 lovel=85 hivel=127 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/crash_crash_vl3_rr3.ogg key=49 pitch_keycenter=49 lovel=85 hivel=127 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/crash_crash_vl3_rr4.ogg key=49 pitch_keycenter=49 lovel=85 hivel=127 seq_length=4 seq_position=4 bus=4
+// key 57: crash_crash
+<region> sample=samples/crash_crash_vl1_rr1.ogg key=57 pitch_keycenter=56 lovel=1 hivel=42 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/crash_crash_vl1_rr2.ogg key=57 pitch_keycenter=56 lovel=1 hivel=42 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/crash_crash_vl1_rr3.ogg key=57 pitch_keycenter=56 lovel=1 hivel=42 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/crash_crash_vl1_rr4.ogg key=57 pitch_keycenter=56 lovel=1 hivel=42 seq_length=4 seq_position=4 bus=4
+<region> sample=samples/crash_crash_vl2_rr1.ogg key=57 pitch_keycenter=56 lovel=43 hivel=84 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/crash_crash_vl2_rr2.ogg key=57 pitch_keycenter=56 lovel=43 hivel=84 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/crash_crash_vl2_rr3.ogg key=57 pitch_keycenter=56 lovel=43 hivel=84 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/crash_crash_vl2_rr4.ogg key=57 pitch_keycenter=56 lovel=43 hivel=84 seq_length=4 seq_position=4 bus=4
+<region> sample=samples/crash_crash_vl3_rr1.ogg key=57 pitch_keycenter=56 lovel=85 hivel=127 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/crash_crash_vl3_rr2.ogg key=57 pitch_keycenter=56 lovel=85 hivel=127 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/crash_crash_vl3_rr3.ogg key=57 pitch_keycenter=56 lovel=85 hivel=127 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/crash_crash_vl3_rr4.ogg key=57 pitch_keycenter=56 lovel=85 hivel=127 seq_length=4 seq_position=4 bus=4
+// key 55: flatride_crash
+<region> sample=samples/flatride_crash_vl1.ogg key=55 pitch_keycenter=55 lovel=1 hivel=31 bus=4
+<region> sample=samples/flatride_crash_vl2.ogg key=55 pitch_keycenter=55 lovel=32 hivel=63 bus=4
+<region> sample=samples/flatride_crash_vl3.ogg key=55 pitch_keycenter=55 lovel=64 hivel=95 bus=4
+<region> sample=samples/flatride_crash_vl4.ogg key=55 pitch_keycenter=55 lovel=96 hivel=127 bus=4
+// key 51: ride_ride
+<region> sample=samples/ride_ride_vl1_rr1.ogg key=51 pitch_keycenter=51 lovel=1 hivel=42 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/ride_ride_vl1_rr2.ogg key=51 pitch_keycenter=51 lovel=1 hivel=42 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/ride_ride_vl1_rr3.ogg key=51 pitch_keycenter=51 lovel=1 hivel=42 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/ride_ride_vl1_rr4.ogg key=51 pitch_keycenter=51 lovel=1 hivel=42 seq_length=4 seq_position=4 bus=4
+<region> sample=samples/ride_ride_vl2_rr1.ogg key=51 pitch_keycenter=51 lovel=43 hivel=84 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/ride_ride_vl2_rr2.ogg key=51 pitch_keycenter=51 lovel=43 hivel=84 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/ride_ride_vl2_rr3.ogg key=51 pitch_keycenter=51 lovel=43 hivel=84 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/ride_ride_vl2_rr4.ogg key=51 pitch_keycenter=51 lovel=43 hivel=84 seq_length=4 seq_position=4 bus=4
+<region> sample=samples/ride_ride_vl3_rr1.ogg key=51 pitch_keycenter=51 lovel=85 hivel=127 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/ride_ride_vl3_rr2.ogg key=51 pitch_keycenter=51 lovel=85 hivel=127 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/ride_ride_vl3_rr3.ogg key=51 pitch_keycenter=51 lovel=85 hivel=127 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/ride_ride_vl3_rr4.ogg key=51 pitch_keycenter=51 lovel=85 hivel=127 seq_length=4 seq_position=4 bus=4
+// key 59: ride_ride
+<region> sample=samples/ride_ride_vl1_rr1.ogg key=59 pitch_keycenter=60 lovel=1 hivel=42 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/ride_ride_vl1_rr2.ogg key=59 pitch_keycenter=60 lovel=1 hivel=42 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/ride_ride_vl1_rr3.ogg key=59 pitch_keycenter=60 lovel=1 hivel=42 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/ride_ride_vl1_rr4.ogg key=59 pitch_keycenter=60 lovel=1 hivel=42 seq_length=4 seq_position=4 bus=4
+<region> sample=samples/ride_ride_vl2_rr1.ogg key=59 pitch_keycenter=60 lovel=43 hivel=84 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/ride_ride_vl2_rr2.ogg key=59 pitch_keycenter=60 lovel=43 hivel=84 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/ride_ride_vl2_rr3.ogg key=59 pitch_keycenter=60 lovel=43 hivel=84 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/ride_ride_vl2_rr4.ogg key=59 pitch_keycenter=60 lovel=43 hivel=84 seq_length=4 seq_position=4 bus=4
+<region> sample=samples/ride_ride_vl3_rr1.ogg key=59 pitch_keycenter=60 lovel=85 hivel=127 seq_length=4 seq_position=1 bus=4
+<region> sample=samples/ride_ride_vl3_rr2.ogg key=59 pitch_keycenter=60 lovel=85 hivel=127 seq_length=4 seq_position=2 bus=4
+<region> sample=samples/ride_ride_vl3_rr3.ogg key=59 pitch_keycenter=60 lovel=85 hivel=127 seq_length=4 seq_position=3 bus=4
+<region> sample=samples/ride_ride_vl3_rr4.ogg key=59 pitch_keycenter=60 lovel=85 hivel=127 seq_length=4 seq_position=4 bus=4
+// key 53: ride_bell
+<region> sample=samples/ride_bell_vl1_rr1.ogg key=53 pitch_keycenter=53 lovel=1 hivel=42 seq_length=3 seq_position=1 bus=4
+<region> sample=samples/ride_bell_vl1_rr2.ogg key=53 pitch_keycenter=53 lovel=1 hivel=42 seq_length=3 seq_position=2 bus=4
+<region> sample=samples/ride_bell_vl1_rr3.ogg key=53 pitch_keycenter=53 lovel=1 hivel=42 seq_length=3 seq_position=3 bus=4
+<region> sample=samples/ride_bell_vl2_rr1.ogg key=53 pitch_keycenter=53 lovel=43 hivel=84 seq_length=3 seq_position=1 bus=4
+<region> sample=samples/ride_bell_vl2_rr2.ogg key=53 pitch_keycenter=53 lovel=43 hivel=84 seq_length=3 seq_position=2 bus=4
+<region> sample=samples/ride_bell_vl2_rr3.ogg key=53 pitch_keycenter=53 lovel=43 hivel=84 seq_length=3 seq_position=3 bus=4
+<region> sample=samples/ride_bell_vl3_rr1.ogg key=53 pitch_keycenter=53 lovel=85 hivel=127 seq_length=3 seq_position=1 bus=4
+<region> sample=samples/ride_bell_vl3_rr2.ogg key=53 pitch_keycenter=53 lovel=85 hivel=127 seq_length=3 seq_position=2 bus=4
+<region> sample=samples/ride_bell_vl3_rr3.ogg key=53 pitch_keycenter=53 lovel=85 hivel=127 seq_length=3 seq_position=3 bus=4

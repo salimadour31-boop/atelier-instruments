@@ -1,0 +1,10 @@
+ATELIER INSTRUMENTS 0.1.0 - Windows x64 (VST3)
+
+1. Copiez les dossiers "Atelier Piano.vst3", "Atelier Batterie.vst3" et "Atelier Cordes.vst3"
+   dans :  C:\Program Files\Common Files\VST3
+   (copiez le DOSSIER .vst3 entier : les echantillons sont a l'interieur)
+2. FL Studio : Options > Manage plugins > Find plugins, puis cochez l'etoile des plugins "Atelier".
+3. Ajoutez-les dans le Channel Rack (Add > Atelier Piano ...).
+
+Licence du code : AGPLv3. Echantillons : CC-BY 3.0 (Salamander Grand Piano, Alexander Holm) et CC0.
+https://github.com/salimadour31-boop/atelier-instruments

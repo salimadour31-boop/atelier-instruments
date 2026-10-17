@@ -1,0 +1,38 @@
+// Atelier Cordes - string ensemble mapping (c) Atelier Instruments, AGPLv3
+// Samples: VSCO 2 Community Edition by Versilian Studios, CC0 1.0 (sustain vibrato, looped)
+<global> loop_mode=loop_continuous amp_veltrack=60 ampeg_attack=0.12 ampeg_release=0.6
+
+<region> sample=samples/cello_36_v1.flac lokey=24 hikey=38 pitch_keycenter=36 lovel=1 hivel=80 loop_start=110310 loop_end=286709
+<region> sample=samples/cello_36_v3.flac lokey=24 hikey=38 pitch_keycenter=36 lovel=81 hivel=127 loop_start=157950 loop_end=334349
+<region> sample=samples/cello_40_v1.flac lokey=39 hikey=41 pitch_keycenter=40 lovel=1 hivel=80 loop_start=119379 loop_end=295778
+<region> sample=samples/cello_40_v3.flac lokey=39 hikey=41 pitch_keycenter=40 lovel=81 hivel=127 loop_start=150264 loop_end=326663
+<region> sample=samples/cello_43_v1.flac lokey=42 hikey=45 pitch_keycenter=43 lovel=1 hivel=80 loop_start=102410 loop_end=278809
+<region> sample=samples/cello_43_v3.flac lokey=42 hikey=45 pitch_keycenter=43 lovel=81 hivel=127 loop_start=161910 loop_end=338309
+<region> sample=samples/cello_47_v1.flac lokey=46 hikey=48 pitch_keycenter=47 lovel=1 hivel=80 loop_start=117054 loop_end=293453
+<region> sample=samples/cello_47_v3.flac lokey=46 hikey=48 pitch_keycenter=47 lovel=81 hivel=127 loop_start=168645 loop_end=345044
+<region> sample=samples/cello_50_v1.flac lokey=49 hikey=51 pitch_keycenter=50 lovel=1 hivel=80 loop_start=121101 loop_end=297500
+<region> sample=samples/cello_50_v3.flac lokey=49 hikey=51 pitch_keycenter=50 lovel=81 hivel=127 loop_start=164566 loop_end=340965
+<region> sample=samples/cello_53_v1.flac lokey=52 hikey=54 pitch_keycenter=53 lovel=1 hivel=80 loop_start=104910 loop_end=281309
+<region> sample=samples/cello_53_v3.flac lokey=52 hikey=54 pitch_keycenter=53 lovel=81 hivel=127 loop_start=153129 loop_end=329528
+<region> sample=samples/viola_55_v1.flac lokey=55 hikey=57 pitch_keycenter=55 lovel=1 hivel=80 loop_start=97407 loop_end=273806
+<region> sample=samples/viola_55_v2.flac lokey=55 hikey=57 pitch_keycenter=55 lovel=81 hivel=127 loop_start=173662 loop_end=350061
+<region> sample=samples/viola_59_v1.flac lokey=58 hikey=60 pitch_keycenter=59 lovel=1 hivel=80 loop_start=138891 loop_end=315290
+<region> sample=samples/viola_59_v2.flac lokey=58 hikey=60 pitch_keycenter=59 lovel=81 hivel=127 loop_start=159108 loop_end=335507
+<region> sample=samples/viola_62_v1.flac lokey=61 hikey=63 pitch_keycenter=62 lovel=1 hivel=80 loop_start=135847 loop_end=312246
+<region> sample=samples/viola_62_v2.flac lokey=61 hikey=63 pitch_keycenter=62 lovel=81 hivel=127 loop_start=176600 loop_end=352999
+<region> sample=samples/viola_65_v1.flac lokey=64 hikey=66 pitch_keycenter=65 lovel=1 hivel=80 loop_start=122337 loop_end=298736
+<region> sample=samples/viola_65_v2.flac lokey=64 hikey=66 pitch_keycenter=65 lovel=81 hivel=127 loop_start=171861 loop_end=348260
+<region> sample=samples/violin_66_v1.flac lokey=67 hikey=67 pitch_keycenter=66 lovel=1 hivel=80 loop_start=115746 loop_end=292145
+<region> sample=samples/violin_66_v2.flac lokey=67 hikey=67 pitch_keycenter=66 lovel=81 hivel=127 loop_start=127067 loop_end=303466
+<region> sample=samples/violin_69_v1.flac lokey=68 hikey=70 pitch_keycenter=69 lovel=1 hivel=80 loop_start=138978 loop_end=315377
+<region> sample=samples/violin_69_v2.flac lokey=68 hikey=70 pitch_keycenter=69 lovel=81 hivel=127 loop_start=122971 loop_end=299370
+<region> sample=samples/violin_72_v1.flac lokey=71 hikey=74 pitch_keycenter=72 lovel=1 hivel=80 loop_start=152008 loop_end=328407
+<region> sample=samples/violin_72_v2.flac lokey=71 hikey=74 pitch_keycenter=72 lovel=81 hivel=127 loop_start=149540 loop_end=325939
+<region> sample=samples/violin_76_v1.flac lokey=75 hikey=77 pitch_keycenter=76 lovel=1 hivel=80 loop_start=169531 loop_end=345930
+<region> sample=samples/violin_76_v2.flac lokey=75 hikey=77 pitch_keycenter=76 lovel=81 hivel=127 loop_start=120607 loop_end=297006
+<region> sample=samples/violin_79_v1.flac lokey=78 hikey=81 pitch_keycenter=79 lovel=1 hivel=80 loop_start=168855 loop_end=345254
+<region> sample=samples/violin_79_v2.flac lokey=78 hikey=81 pitch_keycenter=79 lovel=81 hivel=127 loop_start=158664 loop_end=335063
+<region> sample=samples/violin_83_v1.flac lokey=82 hikey=84 pitch_keycenter=83 lovel=1 hivel=80 loop_start=150719 loop_end=327118
+<region> sample=samples/violin_83_v2.flac lokey=82 hikey=84 pitch_keycenter=83 lovel=81 hivel=127 loop_start=138875 loop_end=315274
+<region> sample=samples/violin_86_v1.flac lokey=85 hikey=103 pitch_keycenter=86 lovel=1 hivel=80 loop_start=154996 loop_end=331395
+<region> sample=samples/violin_86_v2.flac lokey=85 hikey=103 pitch_keycenter=86 lovel=81 hivel=127 loop_start=140756 loop_end=317155

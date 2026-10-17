@@ -1,0 +1,8 @@
+build/
+build-*/
+dist/
+pkgroot/
+renders/
+*.wav
+.DS_Store
+pluginval*

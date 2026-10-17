@@ -1,0 +1,11 @@
+ATELIER INSTRUMENTS 0.1.0 - macOS universel (Intel x86_64 + Apple Silicon), VST3 + AU
+
+1. Copiez le contenu du dossier VST3 dans        ~/Library/Audio/Plug-Ins/VST3
+   et le contenu du dossier Components dans     ~/Library/Audio/Plug-Ins/Components
+   (Finder > Aller > Aller au dossier...)
+2. Plugins non signes : ouvrez le Terminal et tapez
+   xattr -cr ~/Library/Audio/Plug-Ins/VST3/Atelier*.vst3 ~/Library/Audio/Plug-Ins/Components/Atelier*.component
+3. FL Studio : Options > Manage plugins > Find plugins.
+
+Licence du code : AGPLv3. Echantillons : CC-BY 3.0 (Salamander Grand Piano, Alexander Holm) et CC0.
+https://github.com/salimadour31-boop/atelier-instruments
