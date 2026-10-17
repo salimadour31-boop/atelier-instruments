@@ -61,7 +61,7 @@ Les échantillons sont livrés **dans le plugin** (dossier `Contents/Resources` 
 - **Atelier Cordes** : *Attaque* lente (0,3–1 s) pour des nappes, rapide pour des notes plus franches.
 
 ### Limites honnêtes (version 0.1.0)
-- Ce n'est **pas** un équivalent de Kontakt / Battery / bibliothèques commerciales : pas de lecture depuis le disque (DFD), échantillons chargés en mémoire (≈ 150 Mo pour le piano, ≈ 60 Mo batterie, ≈ 120 Mo cordes en RAM).
+- Ce n'est **pas** un équivalent de Kontakt / Battery / bibliothèques commerciales : pas de lecture depuis le disque (DFD), échantillons chargés en mémoire (≈ 180 Mo de RAM pour le piano, ≈ 90 Mo pour la batterie, ≈ 45 Mo pour les cordes).
 - Piano : 4 couches de vélocité sur les 16 de Salamander, notes échantillonnées toutes les tierces mineures, pas de résonance de cordes ni de bruits de marteau/pédale, queues raccourcies (3,5 à 13 s).
 - Batterie : une seule perspective de micro (stéréo « mid »), pas de micros séparés kick/snare/overheads/room ; 2 toms réels (les 6 toms GM sont obtenus par transposition) ; pas de sorties multiples.
 - Cordes : une seule articulation (sustain vibrato), boucles automatiques (de petits artefacts peuvent s'entendre sur certaines notes), pas de legato ni de pizzicato.
